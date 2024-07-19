@@ -1,6 +1,7 @@
 {
-  "name": "proto-pi-website",
+  "name": "protopi-website",
   "version": "0.0.0",
+  "license": "UNLICENSED",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
