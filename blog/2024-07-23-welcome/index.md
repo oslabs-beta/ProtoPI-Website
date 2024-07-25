@@ -1,0 +1,12 @@
+---
+slug: welcome
+title: Welcome to ProtoPI
+authors: [adamw]
+---
+
+Have you ever been building out a UI for your app, and you needed to test your links, but the backend team hadn't finished putting together the API, and you had to wait around? Wouldn't it be great if you didn't have to?
+
+Now, you don't. Introducing...
+![ProtoPI Social Card](./protopi-social-card.jpg)
+
+With the ProtoPI VS Code extension, you can quickly generate an OpenAPI specification YAML file with all your desired endpoints, run a mock server based on the file, and test 'til your heart's content.
