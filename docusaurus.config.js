@@ -80,7 +80,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/oslabs-beta/protopi',
+            href: 'https://github.com/oslabs-beta/ProtoPI',
             label: 'GitHub',
             position: 'right',
           },
@@ -123,9 +123,17 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/oslabs-beta/protopi',
+                label: 'Dev Aid Repo',
+                href: 'https://github.com/oslabs-beta/ProtoPI-DevAid'
               },
+              {
+                label: 'VS Code Extension Repo',
+                href: 'https://github.com/oslabs-beta/ProtoPI',
+              },
+              {
+                label: 'Website Repo',
+                href: 'https://github.com/oslabs-beta/ProtoPI-Website'
+              }
             ],
           },
         ],
