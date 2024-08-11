@@ -24,6 +24,8 @@
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
+    "@commitlint/cli": "^19.4.0",
+    "@commitlint/config-conventional": "^19.2.2",
     "@docusaurus/module-type-aliases": "3.4.0",
     "@docusaurus/types": "3.4.0"
   },
