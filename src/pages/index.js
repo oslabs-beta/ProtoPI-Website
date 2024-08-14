@@ -21,7 +21,9 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/overview">
             Get Started
-          </Link>
+          </Link> {/* This will eventually be a link to the VS Code extension install page
+                      and there will be a link next to it that says Documentation, which will
+                      have this actual link */}
         </div>
       </div>
     </header>
@@ -31,9 +33,7 @@ function HomepageHeader() {
 export default function Home() {
   // const {siteConfig} = useDocusaurusContext();
   return (
-    <Layout
-      title={`Home`}
-      description="ProtoPI VS Code extension documentation website home page.">
+    <Layout title={`Home`} description="ProtoPI VS Code extension documentation website home page.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
