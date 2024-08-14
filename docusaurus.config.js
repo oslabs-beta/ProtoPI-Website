@@ -78,7 +78,16 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            to: '/blog',
+            label: 'Blog',
+            position: 'left'
+          },
+          {
+            to: '/blog/about',
+            label: 'About Us',
+            position: 'right'
+          },
           {
             href: 'https://github.com/oslabs-beta/ProtoPI',
             label: 'GitHub',
