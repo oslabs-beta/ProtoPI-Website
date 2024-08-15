@@ -1,19 +1,34 @@
-adamw:
-  name: Adam Wells
-  url: https://github.com/WellsOfLivingWater
-  image_url: https://github.com/WellsOfLivingWater.png
-
 adamd:
   name: Adam Duda
-  url: https://github.com/drudgedance
+  title: Software Engineer
   image_url: https://github.com/drudgedance.png
-
-richard:
-  name: Richard Gullo
-  url: https://github.com/xylloz
-  image_url: https://github.com/xylloz.png
+  socials:
+    github: https://github.com/drudgedance
+    linkedin: https://www.linkedin.com/in/adamkduda/
+  page: true
 
 kobe:
   name: Kobe Fung
-  url: https://github.com/kmplanet
+  title: Software Engineer
   image_url: https://github.com/kmplanet.png
+  socials:
+    github: https://github.com/kmplanet
+    linkedin: https://www.linkedin.com/in/kobe-fung-10086a98/
+  page: true
+
+richard:
+  name: Richard Gullo
+  title: Software Engineer
+  image_url: /img/authors/Richard.jpg
+  socials:
+    github: https://github.com/xylloz
+  page: true
+
+adamw:
+  name: Adam Wells
+  title: Software Engineer
+  image_url: https://github.com/WellsOfLivingWater.png
+  socials:
+    github: https://github.com/WellsOfLivingWater
+    linkedin: https://www.linkedin.com/in/adam-michael-wells
+  page: true
